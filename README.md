@@ -2,7 +2,9 @@
 
 **Advent of Code 2021 Puzzles**
 
+***
 **Completed days**:
-- [ ] Day 1
+- [x] Day 1
+- [ ] Day 2
 
 > Created on 1st December 2021
