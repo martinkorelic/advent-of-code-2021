@@ -6,6 +6,7 @@
 **Completed days**:
 - [x] Day 1
 - [x] Day 2
-- [ ] Day 3
+- [x] Day 3
+- [ ] Day 4
 
 > Created on 1st December 2021
